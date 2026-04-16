@@ -4,7 +4,7 @@ This project is a simple and lightweight Node.js boilerplate using TypeScript. I
 
 ---
 
-🛑🛑🛑 Check our latest complete boilerplate for NodeTs [Node Typescript Wizard](https://github.com/fless-lab/ntw-init) 
+Check our latest complete boilerplate for NodeTs [Node Typescript Wizard](https://github.com/fless-lab/ntw-init) 
 
 ## Table of Contents
 
@@ -331,10 +331,3 @@ After running the application, you can access the following services:
 - **MailDev SMTP (external)**: Accessible on port `9025`
 - **MailDev WebApp**: Accessible on port `9080`
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/fless-lab/node-ts-starter/issues) if you want to contribute.
-
-Don't forget to give a star if you find this project useful!
